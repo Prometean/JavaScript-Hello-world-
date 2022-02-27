@@ -1,0 +1,4 @@
+function saySomethingNice(name) {
+    document.write("Hello, " + name + " I think you have something special to share with the word... So, never give up! ;D");
+}
+saySomethingNice("Sarah")
